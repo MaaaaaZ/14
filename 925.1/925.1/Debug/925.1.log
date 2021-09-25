@@ -1,0 +1,4 @@
+﻿  源9251.c
+C:\Users\17719\source\repos\925.1\925.1\源9251.c(18,1): warning C4047: “初始化”:“int”与“char [3]”的间接级别不同
+C:\Users\17719\source\repos\925.1\925.1\源9251.c(18,1): warning C4047: “初始化”:“char”与“char [5]”的间接级别不同
+  925.1.vcxproj -> C:\Users\17719\source\repos\925.1\Debug\925.1.exe
